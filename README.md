@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Sneha
-- 🌱 I’m currently learning css & Javascript
-- 📫 you can contact me via ksnehaswn@gmail.com
-- 😄 Pronouns:Sneha
+Hi, I am Sneha. 
   
 
 <!---
